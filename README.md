@@ -1,7 +1,7 @@
 # Dokumentasi API Nimirikid
 
 ## Basis URL
-API ini dapat diakses di `http://127.0.0.1:8000/api/api/`.
+API ini dapat diakses di `http://127.0.0.1:8000/api/`.
 
 ---
 
